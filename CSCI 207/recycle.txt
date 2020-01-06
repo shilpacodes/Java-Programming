@@ -1,0 +1,5 @@
+bottle
+can
+foil
+glass
+wool

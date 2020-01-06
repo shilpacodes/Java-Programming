@@ -1,0 +1,11 @@
+db = {
+    "cans":[
+        ["16 Sensational Ways To Upcycle Tin Cans", "From beans to soups and even dessert, there are so many great foods that are packaged inside tin cans these days. You probably already know that they can be recycled pretty easily, but perhaps you didn't know that upcycling them can be just as simple.", "https://experthometips.com/images/content/3090-980x506.png"]
+        ["25 Creative Ways To Reuse Cans.", "Collection of Creative Ways To Reuse Cans from all over the world.", "https://4.bp.blogspot.com/-nWV77V7lvXM/TcD6KdnY5XI/AAAAAAAA508/bXa-8wtDd2k/s1600/12.jpg"]
+    ]
+    "glass":[
+        ["10 Great Ways to Reuse Glass Bottles and Jars", "Instead of sending those glass bottles and jars out with the recycling this weekend, recycle them into home decor!", "https://i.pinimg.com/originals/df/99/a3/df99a3a7eb2071890b116b88e3521879.jpg"]
+        ["Reuse Old Glass To Make Useful things", "How to transform old glass into really useful and beautiful things for our homes and gardens! Some of these would make great gifts as well!", "http://www.apieceofrainbow.com/wp-content/uploads/2014/12/apieceofrainbow-reuse-glass-diy.jpg"]
+    ]
+    
+}
